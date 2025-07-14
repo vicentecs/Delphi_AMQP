@@ -1,0 +1,10 @@
+{
+	"name": "Delphi_AMQP",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./Source",
+	"projects": [],
+	"dependencies": {
+	}
+}
